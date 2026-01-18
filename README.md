@@ -19,13 +19,27 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![SoloFlow](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=soloflow&theme=tokyonight)](https://github.com/nihal-b/soloflow)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=portfolio&theme=tokyonight)](https://github.com/nihal-b/portfolio)
+[![Google Calendar Clone](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=google-calendar-clone&theme=tokyonight)](https://github.com/nihal-b/google-calendar-clone)
+
+</div>
+
+> 💡 If your repo names are different, rename them above.
+
+---
+
 ## 🔭 Current Work  
 
-| Project | Role | Description |
-|--------|------|-------------|
-| **SoloFlow – Personal Work Tracker** | Full Stack Engineer | Production-ready Next.js app for tracking personal work progress with TailwindCSS and Firebase/Supabase-ready auth |
-| **Nihal B — Portfolio** | Builder | High-performance portfolio built with Next.js, TypeScript & Tailwind CSS (SEO-first, dark mode, animations) |
-| **Google Calendar Clone** | Frontend Engineer | React + JavaScript clone project to master UI architecture and state management |
+| Project | Description |
+|--------|-------------|
+| **SoloFlow – Personal Work Tracker** | Next.js productivity tracker with TailwindCSS and Firebase/Supabase-ready auth |
+| **Nihal B — Portfolio** | SEO-first portfolio with dark mode, animations, and blazing-fast performance |
+| **Google Calendar Clone** | React + JS UI clone for mastering frontend architecture |
 
 ---
 
@@ -38,36 +52,21 @@
 ### 🚀 Product Engineering
 - Build scalable full-stack applications  
 - Convert ideas into production-grade systems  
-- Design clean, maintainable frontend architectures  
-- Develop AI-powered automation tools  
+- Design clean frontend architectures  
+- Build AI-powered automation tools  
 
 </td>
 <td width="50%">
 
 ### ⚙️ Technical Excellence
-- Architect backend services with Node.js & Python  
-- Deploy on AWS using Docker & CI/CD  
-- Build cloud-native, secure systems  
-- Integrate LLMs into real-world products  
+- Node.js & Python backend engineering  
+- AWS cloud-native deployments  
+- Docker & CI/CD automation  
+- LLM integration into real-world products  
 
 </td>
 </tr>
 </table>
-
----
-
-## 💬 Ask Me About  
-
-<div align="center">
-
-![Full Stack](https://img.shields.io/badge/Full--Stack%20Engineering-0A66C2?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js%20Apps-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker%20%26%20DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js%20Backend-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
 
 ---
 
@@ -119,6 +118,19 @@
 </p>
 
 </details>
+
+---
+
+## 📄 Resume
+
+📥 **Download My Resume:**  
+👉 https://nihalb.dev/resume.pdf  
+
+🧠 **Highlights**
+- Full Stack Engineer with production experience in React, Next.js, Node.js
+- AWS cloud-native architecture and CI/CD pipelines
+- AI-powered product development
+- Scalable system design & clean architecture
 
 ---
 
