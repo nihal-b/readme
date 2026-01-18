@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![SoloFlow](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=SoloFlow---Personal-Work-Tracker-&theme=tokyonight)](https://github.com/nihal-b/SoloFlow---Personal-Work-Tracker-)
+[![SoloFlow](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=SoloFlow---Personal-Work-Tracker&theme=tokyonight)](https://github.com/nihal-b/SoloFlow---Personal-Work-Tracker-)
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=my-portfolio&theme=tokyonight)](https://github.com/nihal-b/my-portfolio)
 
@@ -125,7 +125,7 @@
 ## 📄 Resume
 
 📥 **View / Download My Resume:**  
-👉 [NihalB_Resume.pdf](https://github.com/nihal-b/nihal-b/readme/main/NihalB_Resume.pdf)
+👉 [NihalB_Resume.pdf](https://github.com/nihal-b/readme/main/NihalB_Resume.pdf)
 
 🔗 **Direct Download Link:**  
 👉 https://raw.githubusercontent.com/nihal-b/nihal-b/readme/main/NihalB_Resume.pdf
