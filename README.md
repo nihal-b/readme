@@ -28,14 +28,14 @@
   <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/soloflow-card.png" width="420" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Portfolio Card -->
 <a href="https://nihalb.dev">
   <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/portfolio-card.png" width="420" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Google Calendar Card (Public Repo) -->
 <a href="https://github.com/nihal-b/Google-Calender">
