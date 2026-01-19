@@ -19,25 +19,28 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- SoloFlow Card -->
-<a href="https://github.com/nihal-b">
-  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/soloflow-card.png" width="420" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nihal-b">
+        <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/soloflow-card.png" width="420" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nihalb.dev">
+        <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/portfolio-card.png" width="420" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Portfolio Card -->
-<a href="https://nihalb.dev">
-  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/portfolio-card.png" width="420" />
-</a>
-
-<br/>
-
-<!-- Google Calendar Card (Public Repo) -->
 <a href="https://github.com/nihal-b/Google-Calender">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true" width="420" />
 </a>
