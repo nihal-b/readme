@@ -25,7 +25,7 @@
 
 <!-- SoloFlow Card (Private Repo) -->
 <a href="https://github.com/nihal-b">
-  <img src="https://raw.githubusercontent.com/nihal-b/assets/portfolio-card.png" width="420" />
+  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/assets/soloflow-card.png" width="420" />
 </a>
 
 <br/><br/>
