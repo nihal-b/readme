@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/soloflow-card.png" width="420" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Portfolio Card -->
 <a href="https://nihalb.dev">
