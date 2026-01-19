@@ -23,80 +23,17 @@
 
 <div align="center">
 
-<!-- SoloFlow Project Card -->
-<a href="https://github.com/nihal-b" style="text-decoration:none;">
-  <div style="
-    width: 780px;
-    background: linear-gradient(135deg, #0f172a, #020617);
-    border-radius: 16px;
-    padding: 24px 28px;
-    margin: 20px 0;
-    box-shadow: 0 0 0 1px rgba(148,163,184,0.15), 0 20px 40px rgba(0,0,0,0.6);
-    color: #e5e7eb;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  ">
+[![SoloFlow](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=SoloFlow---Personal-Work-Tracker&theme=tokyonight)](https://github.com/nihal-b/SoloFlow---Personal-Work-Tracker-)
 
-    <!-- Header -->
-  <div style="display:flex; align-items:center; gap:16px;">
-      <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="56" height="56" style="border-radius:50%;" />
-      <h2 style="margin:0; font-size:26px; font-weight:600;">
-        SoloFlow — Personal Work Tracker
-      </h2>
-  </div>
+<br/>
 
-    <!-- Tech Badge -->
-  <div style="
-      display:inline-block;
-      background: linear-gradient(90deg,#6d28d9,#9333ea);
-      padding: 8px 16px;
-      border-radius: 8px;
-      margin: 18px 0;
-      font-weight:600;
-      letter-spacing:1px;
-      font-size:13px;
-    ">
-      NEXT.JS &nbsp;|&nbsp; TAILWIND &nbsp;|&nbsp; FIREBASE-READY
-  </div>
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=my-portfolio&theme=tokyonight)](https://github.com/nihal-b/my-portfolio)
 
-    <!-- Description -->
-  <div style="font-size:18px; color:#cbd5f5; margin-bottom:16px;">
-      📊 Productivity Tracker
-  </div>
+<br/>
 
-    <!-- Footer -->
-  <div style="display:flex; justify-content:space-between; align-items:center;">
-      <div style="font-size:18px;">
-        ⭐ JavaScript
-  </div>
-
-  <div style="display:flex; align-items:center; gap:14px; font-size:18px;">
-        ⭐ 10
-        🔁
-      </div>
- </div>
-
-  </div>
-</a>
+[![Google Calendar](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight)](https://github.com/nihal-b/Google-Calender)
 
 </div>
-
-
-<br/><br/>
-
-<!-- Portfolio Card (Private Repo) -->
-<a href="https://nihalb.dev">
-  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/assets/portfolio-card.png" width="420" />
-</a>
-
-<br/><br/>
-
-<!-- Google Calendar Card (Public Repo - Live GitHub Card) -->
-<a href="https://github.com/nihal-b/Google-Calender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true" width="420" />
-</a>
-
-</div>
-
 
 ---
 
