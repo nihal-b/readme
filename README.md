@@ -23,17 +23,27 @@
 
 <div align="center">
 
-[![SoloFlow](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=SoloFlow---Personal-Work-Tracker&theme=tokyonight)](https://github.com/nihal-b/SoloFlow---Personal-Work-Tracker-)
+<!-- SoloFlow Card (Private Repo) -->
+<a href="https://github.com/nihal-b">
+  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/assets/soloflow-card.png" width="420" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=my-portfolio&theme=tokyonight)](https://github.com/nihal-b/my-portfolio)
+<!-- Portfolio Card (Private Repo) -->
+<a href="https://nihalb.dev">
+  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/assets/portfolio-card.png" width="420" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![Google Calendar](https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight)](https://github.com/nihal-b/Google-Calender)
+<!-- Google Calendar Card (Public Repo - Live GitHub Card) -->
+<a href="https://github.com/nihal-b/Google-Calender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true" width="420" />
+</a>
 
 </div>
+
 
 
 ---
