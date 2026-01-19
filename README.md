@@ -23,27 +23,26 @@
 
 <div align="center">
 
-<!-- SoloFlow Card (Private Repo) -->
+<!-- SoloFlow Card -->
 <a href="https://github.com/nihal-b">
-  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/assets/soloflow-card.png" width="420" />
+  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/soloflow-card.png" width="420" />
 </a>
 
 <br/><br/>
 
-<!-- Portfolio Card (Private Repo) -->
+<!-- Portfolio Card -->
 <a href="https://nihalb.dev">
-  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/assets/portfolio-card.png" width="420" />
+  <img src="https://raw.githubusercontent.com/nihal-b/nihal-b/main/nihal-b/assets/portfolio-card.png" width="420" />
 </a>
 
 <br/><br/>
 
-<!-- Google Calendar Card (Public Repo - Live GitHub Card) -->
+<!-- Google Calendar Card (Public Repo) -->
 <a href="https://github.com/nihal-b/Google-Calender">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true" width="420" />
 </a>
 
 </div>
-
 
 
 ---
