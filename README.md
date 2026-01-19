@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Nihal B  
-### Full Stack Engineer · Product Builder · Automation Enthusiast  
+### Full Stack Engineer · Product Builder · Vibe-Driven Developer 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nihal-b&color=blueviolet&style=flat-square&label=Profile+Views" />
@@ -143,7 +143,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nihal-b&theme=darkhub&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nihal-b&theme=tokyonight&no-frame=true&column=6" />
 </div>
 
 ---
@@ -164,7 +164,9 @@
 ## 🎯 Current Focus
 
 ```text
-🔥 Building scalable full-stack products  
-🚀 Shipping AI-powered web platforms  
-☁️ Cloud-native architecture on AWS  
-📚 Deepening expertise in system design  
+🧠 Building real-world products while mastering full-stack fundamentals  
+⚡ Turning ideas into clean, fast, production-ready Next.js apps  
+🔧 Practicing system design by building real systems  
+🚀 Growing as a developer through hands-on projects and shipping consistently  
+📚 Constantly learning new technologies and improving my craft
+
