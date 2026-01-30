@@ -204,11 +204,13 @@ echo "=================================================="
 
 <div align="center">
 
-<a href="https://github.com/nihal-b">
+<a href="https://github.com/nihal-b/Google-Calender">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-b&repo=Google-Calender&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
 </a>
 
 </div>
+
+<br>
 
 <div align="center">
   
@@ -286,6 +288,57 @@ const nihalB = {
 };
 ```
 
+<!-- ====================================== RESUME SECTION ====================================== -->
+
+<h2 align="center">📄 Resume</h2>
+
+<div align="center">
+
+```bash
+# Download my resume
+curl -L https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf -o NihalB_Resume.pdf
+
+# Or visit directly
+```
+
+**[📥 Click Here to Download Resume](https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf)**
+
+<br>
+
+<div align="center">
+
+**📌 Highlights:**
+
+</div>
+
+```yaml
+Experience:
+  - Full Stack Development (React, Next.js, Node.js)
+  - Cloud Architecture (AWS)
+  - AI/ML Integration
+  - System Design
+
+Skills:
+  - Production-grade applications
+  - CI/CD pipelines
+  - Clean architecture
+  - Scalable systems
+```
+
+</div>
+
+<!-- ====================================== SNAKE ANIMATION ====================================== -->
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihal-b/nihal-b/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihal-b/nihal-b/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nihal-b/nihal-b/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 <!-- ====================================== ACHIEVEMENTS ====================================== -->
 
 <h2 align="center">🏆 Achievements</h2>
@@ -319,48 +372,6 @@ const nihalB = {
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-</a>
-
-</div>
-
-<!-- ====================================== RESUME SECTION ====================================== -->
-
-<h2 align="center">📄 Resume</h2>
-
-<div align="center">
-
-```bash
-# Download my resume
-curl -L https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf -o NihalB_Resume.pdf
-
-# Or visit directly
-https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf
-```
-
-**📌 Highlights:**
-```yaml
-Experience:
-  - Full Stack Development (React, Next.js, Node.js)
-  - Cloud Architecture (AWS)
-  - AI/ML Integration
-  - System Design
-
-Skills:
-  - Production-grade applications
-  - CI/CD pipelines
-  - Clean architecture
-  - Scalable systems
-```
-
-</div>
-
-<!-- ====================================== SNAKE ANIMATION ====================================== -->
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/nihal-b/nihal-b/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -368,17 +379,9 @@ Skills:
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
+<h2>💭 Dev Quote of the Day</h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<!-- ====================================== DEV MEME ====================================== -->
-
-<div align="center">
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 </div>
 
@@ -388,11 +391,19 @@ Skills:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+<br>
+
 ### Show some ❤️ by starring some of the repositories!
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
+<br><br>
+
 ### 🔥 *"Code is like humor. When you have to explain it, it's bad!"* 🔥
+
+<br>
 
 ---
 
@@ -400,13 +411,11 @@ Skills:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-</div>
-
-<!-- ====================================== VISITORS COUNTER ====================================== -->
-
-<div align="center">
+<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/nihal-b/count.svg)
+
+<br>
 
 **Thanks for visiting! Happy coding! 🚀**
 
