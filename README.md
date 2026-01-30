@@ -1,18 +1,20 @@
 <!-- ====================================== HEADER ====================================== -->
 <div align="center">
-  
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Hey+%F0%9F%91%8B+I'm+Nihal+B;Full+Stack+Engineer+%7C+Product+Builder;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
-<!-- Animated Wave -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<!-- Premium Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0066ff&height=200&section=header&text=Hey%20👋%20I'm%20Nihal%20B&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Product%20Builder%20|%20Vibe-Driven%20Developer&descAlignY=55&descSize=18"/>
 
-<!-- Profile Views & Followers -->
+<!-- Animated Typing Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Building+the+Future%2C+One+Commit+at+a+Time;Always+Learning%2C+Always+Building;Code+%2B+Coffee+%3D+Magic" alt="Typing SVG" />
+
+<br>
+
+<!-- Profile Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihal-b&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nihal-b?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=nihal-b&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nihal-b?label=Followers&style=flat&color=blue" alt="Followers" />
   <a href="https://github.com/nihal-b?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nihal-b?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nihal-b?color=55960c&style=flat&labelColor=488207&logo=star"/></a>
 </p>
 
 </div>
@@ -41,14 +43,19 @@ echo ""
 echo "=================================================="
 ```
 
+<br>
+
 <!-- ====================================== GITHUB ACTIVITY GRAPH ====================================== -->
 
 <div align="center">
-  
-<!-- GitHub Activity Graph -->
+
+### 📈 Contribution Graph
+
 [![Nihal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihal-b&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/nihal-b)
 
 </div>
+
+<br>
 
 <!-- ====================================== TECH STACK SHOWCASE ====================================== -->
 
@@ -56,147 +63,102 @@ echo "=================================================="
 
 <div align="center">
   
-<!-- Frontend -->
 <table>
 <tr>
 <td align="center" width="96">
-<a href="#frontend">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-</a>
 <br>React
 </td>
 <td align="center" width="96">
-<a href="#frontend">
 <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-</a>
 <br>Next.js
 </td>
 <td align="center" width="96">
-<a href="#frontend">
 <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-</a>
 <br>TypeScript
 </td>
 <td align="center" width="96">
-<a href="#frontend">
 <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-</a>
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<a href="#frontend">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-</a>
 <br>Tailwind
 </td>
 <td align="center" width="96">
-<a href="#frontend">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-</a>
 <br>HTML5
 </td>
 <td align="center" width="96">
-<a href="#frontend">
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-</a>
 <br>CSS3
 </td>
 </tr>
-
-<!-- Backend -->
 <tr>
 <td align="center" width="96">
-<a href="#backend">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-</a>
 <br>Node.js
 </td>
 <td align="center" width="96">
-<a href="#backend">
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-</a>
 <br>Python
 </td>
 <td align="center" width="96">
-<a href="#backend">
 <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-</a>
 <br>NestJS
 </td>
 <td align="center" width="96">
-<a href="#backend">
 <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-</a>
 <br>Express
 </td>
 <td align="center" width="96">
-<a href="#backend">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-</a>
 <br>MongoDB
 </td>
 <td align="center" width="96">
-<a href="#backend">
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-</a>
 <br>MySQL
 </td>
 <td align="center" width="96">
-<a href="#backend">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-</a>
 <br>Firebase
 </td>
 </tr>
-
-<!-- DevOps & Cloud -->
 <tr>
 <td align="center" width="96">
-<a href="#devops">
 <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-</a>
 <br>AWS
 </td>
 <td align="center" width="96">
-<a href="#devops">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-</a>
 <br>Docker
 </td>
 <td align="center" width="96">
-<a href="#devops">
 <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-</a>
 <br>Kubernetes
 </td>
 <td align="center" width="96">
-<a href="#devops">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-</a>
 <br>Git
 </td>
 <td align="center" width="96">
-<a href="#devops">
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-</a>
 <br>GitHub
 </td>
 <td align="center" width="96">
-<a href="#devops">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-</a>
 <br>VS Code
 </td>
 <td align="center" width="96">
-<a href="#devops">
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-</a>
 <br>Linux
 </td>
 </tr>
 </table>
 
 </div>
+
+<br>
 
 <!-- ====================================== FEATURED PROJECTS ====================================== -->
 
@@ -222,24 +184,29 @@ echo "=================================================="
 
 </div>
 
-<!-- ====================================== CODING STATS & ACTIVITY ====================================== -->
+<br>
+
+<!-- ====================================== GITHUB ANALYTICS ====================================== -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nihal-b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nihal-b&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nihal-b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Nihal's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=nihal-b&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="Nihal's Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=nihal-b&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&combine_all_yearly_contributions=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=nihal-b&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
 
-<!-- Trophy Collection -->
+<br>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nihal-b&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=nihal-b&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
+
+<br>
 
 <!-- ====================================== CODING ACTIVITY ====================================== -->
 
@@ -258,6 +225,8 @@ Other        1 hr            ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </div>
+
+<br>
 
 <!-- ====================================== CURRENT FOCUS ====================================== -->
 
@@ -288,6 +257,8 @@ const nihalB = {
 };
 ```
 
+<br>
+
 <!-- ====================================== RESUME SECTION ====================================== -->
 
 <h2 align="center">📄 Resume</h2>
@@ -297,19 +268,13 @@ const nihalB = {
 ```bash
 # Download my resume
 curl -L https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf -o NihalB_Resume.pdf
-
-# Or visit directly
 ```
 
 **[📥 Click Here to Download Resume](https://raw.githubusercontent.com/nihal-b/readme/main/NihalB_Resume.pdf)**
 
 <br>
 
-<div align="center">
-
 **📌 Highlights:**
-
-</div>
 
 ```yaml
 Experience:
@@ -327,9 +292,13 @@ Skills:
 
 </div>
 
+<br>
+
 <!-- ====================================== SNAKE ANIMATION ====================================== -->
 
 <div align="center">
+
+<h2>🐍 Contribution Snake</h2>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihal-b/nihal-b/output/github-contribution-grid-snake-dark.svg">
@@ -339,6 +308,8 @@ Skills:
 
 </div>
 
+<br>
+
 <!-- ====================================== ACHIEVEMENTS ====================================== -->
 
 <h2 align="center">🏆 Achievements</h2>
@@ -347,12 +318,14 @@ Skills:
 
 | 🎖️ Achievement | 📈 Progress |
 |---------------|------------|
-| Total Contributions | ![](https://img.shields.io/badge/2000+-00d9ff?style=for-the-badge) |
-| Total PRs | ![](https://img.shields.io/badge/100+-4caf50?style=for-the-badge) |
-| Total Issues | ![](https://img.shields.io/badge/50+-ff9800?style=for-the-badge) |
-| Total Stars | ![](https://img.shields.io/badge/500+-ffeb3b?style=for-the-badge) |
+| Total Contributions | ![](https://img.shields.io/badge/2000+-00d9ff?style=flat-square) |
+| Total PRs | ![](https://img.shields.io/badge/100+-4caf50?style=flat-square) |
+| Total Issues | ![](https://img.shields.io/badge/50+-ff9800?style=flat-square) |
+| Total Stars | ![](https://img.shields.io/badge/500+-ffeb3b?style=flat-square) |
 
 </div>
+
+<br>
 
 <!-- ====================================== CONNECT WITH ME ====================================== -->
 
@@ -375,6 +348,8 @@ Skills:
 
 </div>
 
+<br>
+
 <!-- ====================================== DYNAMIC QUOTE ====================================== -->
 
 <div align="center">
@@ -385,13 +360,11 @@ Skills:
 
 </div>
 
+<br><br>
+
 <!-- ====================================== FOOTER ====================================== -->
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
 
 ### Show some ❤️ by starring some of the repositories!
 
@@ -407,10 +380,6 @@ Skills:
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/nihal-b/count.svg)
@@ -418,5 +387,15 @@ Skills:
 <br>
 
 **Thanks for visiting! Happy coding! 🚀**
+
+<br>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00d9ff&height=120&section=footer"/>
+
+<!-- Signature -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Designed_by-Nihal_B-00d9ff?style=for-the-badge&logo=github&logoColor=white" alt="Designed by Nihal B"/>
+</p>
 
 </div>
